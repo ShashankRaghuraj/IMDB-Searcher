@@ -35,7 +35,3 @@ Then run the Python backend:
 - Node.js  
 - Python 3.x  
 - A valid TMDB API key (make sure it's properly configured)
-
-## License
-
-This project is licensed under the MIT License.
