@@ -1,0 +1,9 @@
+# IMDb Pathfinder
+
+Find the shortest connection between an actor and a movie using TMDB data. Features fast autocomplete and clear path results.
+
+## Usage
+
+1. Install dependencies: `npm install`
+2. Start servers: `npm run dev`
+3. Start backend: `cd .\imdb-pathfinder\src` and then run `python backend.py`
